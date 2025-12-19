@@ -1,0 +1,14 @@
+manifest:
+  remotes:
+    - name: gh
+      url-base: https://github.com/ElectroStar
+      
+  projects:
+    - name: component-a
+      remote: gh
+      path: components/comp_a
+      revision: main
+    - name: component-b
+      remote: gh
+      path: components/comp_b
+      revision: main
