@@ -8,6 +8,7 @@ manifest:
       remote: gh
       path: components/comp_a
       revision: main
+      import: true
     - name: component-b
       remote: gh
       path: components/comp_b
