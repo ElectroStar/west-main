@@ -6,11 +6,11 @@ manifest:
   projects:
     - name: component-a
       remote: gh
-      path: components/comp_a
+      path: project/components/comp_a
       revision: main
       import: true
     - name: component-b
       remote: gh
-      path: components/comp_b
+      path: project/components/comp_b
       revision: main
       import: true
