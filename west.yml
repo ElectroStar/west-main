@@ -12,3 +12,4 @@ manifest:
       remote: gh
       path: components/comp_b
       revision: main
+      import: true
